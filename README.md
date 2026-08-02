@@ -44,10 +44,17 @@ A personal, copy-ready library of the code and functionality you reach for again
 |---|---|---|
 | [Animations](./Animations) | Fade, spring, shake, spin, property animator | Code + Docs |
 | [Gestures](./Gestures) | Tap, long-press, pan, pinch, rotate, swipe | Code + Docs |
+| [Charts](./Charts) | Hand-drawn bar chart, Swift Charts (iOS 16+), DGCharts | Code + Docs |
 | [Alerts](./Alerts) | Alerts, action sheets, text-field prompts | Code |
 | [Extensions](./Extensions) | Handy `UIView` / `UIColor` / `UIImageView` extensions | Code |
 | [PushNotifications](./PushNotifications) | Local + remote (APNs): permission, token, handling | Code + Docs |
 | [FirebaseNotifications](./FirebaseNotifications) | Firebase Cloud Messaging (FCM) setup on top of APNs | Code + Docs |
+
+**Reference**
+
+| Section | What's inside | Type |
+|---|---|---|
+| [Libraries](./Libraries) | Most popular third-party libraries used with UIKit, by category | Docs |
 | [Guides](./Guides) | Longer step-by-step tutorials (setup, architecture, debugging) | Docs |
 
 ---
